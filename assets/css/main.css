@@ -1,0 +1,69 @@
+.oll {
+  background-image: url('/Users/ila/Documents/Span/assets/img/bg.png');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 2400px;
+}
+
+.botton-news__body-botton {
+  height: 300px;
+  width: 2400px;
+  background-color: rgba(0, 0, 0, 0.56);
+}
+
+.body__botton-news {
+  display: block;
+  height: 300px;
+  width: 1000px;
+  margin: auto;
+}
+
+.logo__text-oll {
+  font-size: 31px;
+  color: white;
+}
+
+.logo2__text-oll {
+  font-size: 17px;
+  color: #c295dc;
+}
+
+.text__text-oll {
+  font-style: oblique;
+  color: white;
+}
+
+.text-oll {
+  display: block;
+  height: 300px;
+  width: 500px;
+  float: left;
+}
+
+.img-oll {
+  height: 300px;
+  width: 500px;
+  float: right;
+  position: relative;
+}
+
+.img__img-oll {
+  position: absolute;
+}
+
+.img__img-oll {
+  position: absolute;
+}
+
+.botton {
+  top: 0;
+  left: -85px;
+}
+
+.top {
+  top: -72px;
+  left: 0;
+}
